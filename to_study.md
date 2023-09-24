@@ -1,0 +1,34 @@
+# Topics To Study
+
+Private Hosted Zones & Route 53
+
+AWS Migration Evaluator (what's included in case report?)
+
+Developer Support Plan (aws trusted advisor check #s) 35?
+
+Github / Jenkins version on AWS? CodeDeploy / CodeBuild?
+
+ECS - service discover, multi-cloud integration, manages clusters?
+
+VPC subdomains / private hosted zones - delegation in parent zone?
+
+
+S3 file gateway requirements
+
+Amazon RDS database backup procedure for multi-AZ deployment - None?
+
+
+API Gateway fix application for REST API
+
+
+Push Debug logs to S3 at 2am - Use Systems Manager Distributer to transfer?
+
+
+State Machine process flow in Lambda
+
+
+AWS Shield - DDoS 
+
+ECS  - permissions policy to manage, create, describe resources? 
+
+
