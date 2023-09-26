@@ -1,6 +1,13 @@
 # Topics To Study
 
-Private Hosted Zones & Route 53
+## S3
+- HTTPS TLS/SSL Certificate via CloudFront
+- Private Hosted Zones & Route 53
+- Push Debug logs to S3 at 2am - Use Systems Manager Distributer to transfer?
+- S3 file gateway requirements
+
+
+## Misc
 
 AWS Migration Evaluator (what's included in case report?)
 
@@ -12,20 +19,11 @@ ECS - service discover, multi-cloud integration, manages clusters?
 
 VPC subdomains / private hosted zones - delegation in parent zone?
 
-
-S3 file gateway requirements
-
 Amazon RDS database backup procedure for multi-AZ deployment - None?
-
 
 API Gateway fix application for REST API
 
-
-Push Debug logs to S3 at 2am - Use Systems Manager Distributer to transfer?
-
-
 State Machine process flow in Lambda
-
 
 AWS Shield - DDoS 
 
