@@ -1,5 +1,10 @@
 # S3 Bucket Policy Examples and notes
 
+## PreSigned URL
+- aws s3 presign s3://mybucket/myobject  --expires-in 300
+
+
+
 ## Bucket with descriptive Sid names
 
 {
