@@ -8,7 +8,9 @@
 
 
 ## Misc
+- EC2 config lookup:  curl http://169.254.169.254/latest/meta-data
 
+AWS WAF - get high level overview
 AWS Migration Evaluator (what's included in case report?)
 
 Developer Support Plan (aws trusted advisor check #s) 35?
