@@ -10,6 +10,15 @@
 ## Misc
 - EC2 config lookup:  curl http://169.254.169.254/latest/meta-data
 
+## Post Test Notes
+
+- API / Gateway / Etc Endpoints
+- EKS Kubernetics cost effective
+- Moving data to AWS, least administrative, least cost, etc
+
+
+
+
 AWS WAF - get high level overview
 AWS Migration Evaluator (what's included in case report?)
 
