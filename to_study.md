@@ -1,5 +1,8 @@
 # Topics To Study
 
+## OSI Layers
+- How AWS fits into each layer
+
 ## S3
 - HTTPS TLS/SSL Certificate via CloudFront
 - Private Hosted Zones & Route 53
