@@ -1,5 +1,9 @@
 # Topics To Study
 
+# Basics
+- Public / Private zone
+- 
+
 ## OSI Layers
 - How AWS fits into each layer
 
